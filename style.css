@@ -1,0 +1,107 @@
+h1, h2, h3, h4, p, li {
+    font-family: sans-serif;
+}
+
+h4 {
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+    color: #1098ad;
+}
+
+h1 {
+    padding: 0px;
+    color: #1098ad;
+    font-size: 26px;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+h3 {
+    color: #1098ad;
+    font-size: 30px;
+    padding-top: 15px;
+}
+
+p {
+    font-size: 22px;
+    line-height: 1.5;
+
+}
+
+h2{
+    font-size: 40px;
+    color: #1098ad;
+}
+
+li {
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+footer p {
+    font-size: 16px;
+}
+
+
+#autor {
+    font-style: italic;
+    font-size: 18px;
+}
+
+.posts-relacionados {
+    list-style: none;
+
+}
+
+.cab {
+    background-color: #f7f7f7;
+}
+
+aside {
+    padding: 40px;
+    border: 5px solid #1098ad
+}
+
+aside p {
+    font-weight: bolder;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    border-top-style: solid;
+    border-top-width: 10px;
+    border-top-color: #1098ad;
+    padding: 15px;
+}
+
+a {
+    color: #1098ad;
+    text-decoration: none;
+    padding: 0;
+}
+
+.bo {
+    font-weight: bold;
+}
+
+aside li {
+    padding: 10px;
+}
+
+article p {
+    padding-top:  10px;
+    padding-bottom: 10px;
+}
+
+article ol {
+    padding-left: 50px;
+}
+
+article ul {
+    padding-left: 50px;
+}
